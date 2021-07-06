@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pause_circle_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Media" transform="translate(-768.000000, 0.000000)" fill-rule="nonzero">
+            <g id="pause_circle_line" transform="translate(768.000000, 0.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,2 C17.5228,2 22,6.47715 22,12 C22,17.5228 17.5228,22 12,22 C6.47715,22 2,17.5228 2,12 C2,6.47715 6.47715,2 12,2 Z M12,4 C7.58172,4 4,7.58172 4,12 C4,16.4183 7.58172,20 12,20 C16.4183,20 20,16.4183 20,12 C20,7.58172 16.4183,4 12,4 Z M10,8 C10.5523,8 11,8.44772 11,9 L11,15 C11,15.5523 10.5523,16 10,16 C9.44772,16 9,15.5523 9,15 L9,9 C9,8.44772 9.44772,8 10,8 Z M14,8 C14.5523,8 15,8.44772 15,9 L15,15 C15,15.5523 14.5523,16 14,16 C13.4477,16 13,15.5523 13,15 L13,9 C13,8.44772 13.4477,8 14,8 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

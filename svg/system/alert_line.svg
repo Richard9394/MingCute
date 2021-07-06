@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>alert_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="System" transform="translate(-48.000000, 0.000000)" fill-rule="nonzero">
+            <g id="alert_line" transform="translate(48.000000, 0.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M13.299,3.1477 L21.933,18.1022 C22.5103,19.1022 21.7887,20.3522 20.634,20.3522 L3.36601,20.3522 C2.21131,20.3522 1.48962,19.1022 2.06697,18.1022 L10.7009,3.14771 C11.2783,2.14771 12.7217,2.1477 13.299,3.1477 Z M12,4.8977 L4.23203,18.3522 L19.7679,18.3522 L12,4.8977 Z M12,15 C12.5523,15 13,15.4477 13,16 C13,16.5523 12.5523,17 12,17 C11.4477,17 11,16.5523 11,16 C11,15.4477 11.4477,15 12,15 Z M12,8 C12.5523,8 13,8.44772 13,9 L13,13 C13,13.5523 12.5523,14 12,14 C11.4477,14 11,13.5523 11,13 L11,9 C11,8.44772 11.4477,8 12,8 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

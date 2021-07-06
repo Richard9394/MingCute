@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow_left_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arrow" transform="translate(-98.000000, -48.000000)" fill-rule="nonzero">
+            <g id="arrow_left_fill" transform="translate(98.000000, 48.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M3.2826,10.9395 C2.69682,11.5252 2.69682,12.475 3.2826,13.0608 L8.93946,18.7176 C9.52524,19.3034 10.475,19.3034 11.0608,18.7176 C11.6466,18.1318 11.6466,17.1821 11.0608,16.5963 L7.96458,13.5001 L19.5,13.5001 C20.3284,13.5001 21,12.8285 21,12.0001 C21,11.1717 20.3284,10.5001 19.5,10.5001 L7.96458,10.5001 L11.0608,7.40392 C11.6466,6.81814 11.6466,5.86839 11.0608,5.2826 C10.475,4.69682 9.52524,4.69682 8.93946,5.2826 L3.2826,10.9395 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

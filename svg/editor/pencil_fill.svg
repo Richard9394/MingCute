@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pencil_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Editor" transform="translate(-960.000000, -48.000000)">
+            <g id="pencil_fill" transform="translate(960.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M20.1314,3.16091 C18.9598,1.98933 17.0603,1.98933 15.8888,3.16091 L15.1817,3.86801 L20.1314,8.81776 L20.8385,8.11065 C22.0101,6.93908 22.0101,5.03959 20.8385,3.86801 L20.1314,3.16091 Z M18.7172,10.232 L13.7674,5.28223 L4.67645,14.3732 C4.47766,14.572 4.33874,14.8227 4.27553,15.0966 L3.24747,19.5515 C3.08111,20.2724 3.72721,20.9183 4.44792,20.7519 L8.90283,19.7239 C9.17676,19.6607 9.42741,19.5218 9.6262,19.323 L18.7172,10.232 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

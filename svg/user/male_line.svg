@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>male_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User" transform="translate(-48.000000, 0.000000)">
+            <g id="male_line" transform="translate(48.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M21,9 C21,9.55228 20.5523,10 20,10 C19.4477,10 19,9.55228 19,9 L19,6.41412 L15.4633,9.95082 C16.4273,11.2126 17,12.7894 17,14.5 C17,18.6421 13.6421,22 9.5,22 C5.35786,22 2,18.6421 2,14.5 C2,10.3579 5.35786,7 9.5,7 C11.2105,7 12.7873,7.57262 14.0491,8.53662 L17.5857,5 L15,5 C14.4477,5 14,4.55228 14,4 C14,3.44772 14.4477,3 15,3 L19.75,3 C20.4404,3 21,3.55964 21,4.25 L21,9 Z M9.5,9 C6.46243,9 4,11.4624 4,14.5 C4,17.5376 6.46243,20 9.5,20 C12.5376,20 15,17.5376 15,14.5 C15,11.4624 12.5376,9 9.5,9 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

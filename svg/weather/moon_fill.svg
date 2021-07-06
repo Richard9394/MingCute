@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>moon_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Weather" transform="translate(-97.000000, -48.000000)">
+            <g id="moon_fill" transform="translate(97.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M13.574,3.13754 C12.7837,2.99804 12.1416,3.7988 12.4769,4.54581 C12.8127,5.29376 13,6.12377 13,7.0002 C13,10.3139 10.3137,13.0002 7,13.0002 C6.12356,13.0002 5.29356,12.8129 4.54561,12.4771 C3.79866,12.1418 2.99783,12.7838 3.13734,13.5742 C3.8823,17.7944 7.56575,21.0002 12,21.0002 C16.9706,21.0002 21,16.9708 21,12.0002 C21,7.56595 17.7942,3.88249 13.574,3.13754 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

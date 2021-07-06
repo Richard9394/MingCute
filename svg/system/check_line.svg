@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>check_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="System" transform="translate(-192.000000, 0.000000)">
+            <g id="check_line" transform="translate(192.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M20.985,5.96447 C21.3755,6.355 21.3755,6.98816 20.985,7.37868 L10.4491,17.9146 C10.0195,18.3442 9.32303,18.3442 8.89345,17.9146 L4.01442,13.0355 C3.62389,12.645 3.62389,12.0118 4.01442,11.6213 C4.40494,11.2308 5.03811,11.2308 5.42863,11.6213 L9.67127,15.864 L19.5708,5.96447 C19.9613,5.57395 20.5945,5.57395 20.985,5.96447 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

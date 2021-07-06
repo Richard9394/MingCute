@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>inbox_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="File" transform="translate(-624.000000, -48.000000)">
+            <g id="inbox_fill" transform="translate(624.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M5.82918,5.10557 C6.16796,4.428 6.86049,4 7.61803,4 L16.382,4 C17.1395,4 17.832,4.428 18.1708,5.10557 L21.6833,12.1305 C21.8916,12.5471 22,13.0064 22,13.4721 L22,19 C22,20.1046 21.1046,21 20,21 L4,21 C2.89543,21 2,20.1046 2,19 L2,13.4721 C2,13.0064 2.10844,12.5471 2.31672,12.1305 L5.82918,5.10557 Z M16.382,6 L7.61803,6 L4.12,13 L7.5,13 C8.32843,13 9,13.6716 9,14.5 L9,15.5 C9,15.7761 9.22386,16 9.5,16 L14.5,16 C14.7761,16 15,15.7761 15,15.5 L15,14.5 C15,13.6716 15.6716,13 16.5,13 L19.88,13 L16.382,6 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
