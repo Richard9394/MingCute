@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>notebook_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="notebook_line">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+            <path d="M17,2 C18.597725,2 19.903664,3.24892392 19.9949075,4.82372764 L20,5 L20,18 C20,19.597725 18.7511226,20.903664 17.1762773,20.9949075 L17,21 L6,21 C4.94563773,21 4.08183483,20.18415 4.00548573,19.1492661 L4,19 L4,4 C4,2.94563773 4.81587733,2.08183483 5.85073759,2.00548573 L6,2 L17,2 Z M17,4 L10,4 L10,19 L17,19 C17.51285,19 17.9355092,18.613973 17.9932725,18.1166239 L18,18 L18,5 C18,4.48716857 17.613973,4.06449347 17.1166239,4.0067278 L17,4 Z M8,4 L6,4 L6,19 L8,19 L8,4 Z" id="形状" fill="#09244B"></path>
+        </g>
+    </g>
+</svg>

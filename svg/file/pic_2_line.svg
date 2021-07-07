@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pic_2_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pic_2_line">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+            <path d="M20,3 C21.1046,3 22,3.89543 22,5 L22,19 C22,20.1046 21.1046,21 20,21 L4,21 C2.89543,21 2,20.1046 2,19 L2,5 C2,3.89543 2.89543,3 4,3 L20,3 Z M20,5 L4,5 L4,19 L4.92895,19 L14.2374,9.69151 C14.7256,9.20336 15.5171,9.20336 16.0052,9.69151 L20,13.6863 L20,5 Z M15.1213,11.6361 L7.75738,19 L20,19 L20,16.5147 L15.1213,11.6361 Z M7.5,7 C8.32843,7 9,7.67157 9,8.5 C9,9.32843 8.32843,10 7.5,10 C6.67157,10 6,9.32843 6,8.5 C6,7.67157 6.67157,7 7.5,7 Z" id="形状" fill="#09244B"></path>
+        </g>
+    </g>
+</svg>

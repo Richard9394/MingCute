@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>minus_circle_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="minus_circle_fill">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+            <path d="M12,2 C17.5228,2 22,6.47715 22,12 C22,17.5228 17.5228,22 12,22 C6.47715,22 2,17.5228 2,12 C2,6.47715 6.47715,2 12,2 Z M16,11 L8,11 C7.44772,11 7,11.4477 7,12 C7,12.5523 7.44772,13 8,13 L16,13 C16.5523,13 17,12.5523 17,12 C17,11.4477 16.5523,11 16,11 Z" id="形状" fill="#09244B"></path>
+        </g>
+    </g>
+</svg>
