@@ -5,7 +5,7 @@ MingCute is a set of simple and exquisite open-source icon library. Whether you'
 Head on to the website of [MingCute](https://www.mingcute.com/). Click the icons, you can adjust the color size, and then download the icons in SVG or PNG format. 
 ## Webfont
 Copy the font files from  `/fonts` and import the `mingcute.css` file. Add icon with class name, class name rule: mgc_{name}_{style}
-```
+```html
 <span class="mgc_search_line"></span>
 <span class="mgc_search_fill"></span>
 ```
