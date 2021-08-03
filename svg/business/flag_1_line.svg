@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flag_1_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business" transform="translate(-1200.000000, 0.000000)">
+            <g id="flag_1_line" transform="translate(1200.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M6,3 C4.89543,3 4,3.89543 4,5 L4,21 C4,21.5523 4.44772,22 5,22 C5.55229,22 6,21.5523 6,21 L6,16 L19.8036,16 C20.7026,16 21.222,14.9801 20.6932,14.253 L17.2365,9.5 L20.6932,4.74699 C21.222,4.01992 20.7026,3 19.8036,3 L6,3 Z M6,14 L6,5 L18.0362,5 L15.4051,8.61774 C15.0226,9.14372 15.0226,9.85628 15.4051,10.3823 L18.0362,14 L6,14 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

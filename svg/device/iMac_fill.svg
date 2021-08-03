@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>iMac_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Device" transform="translate(-864.000000, -48.000000)">
+            <g id="iMac_fill" transform="translate(864.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M5,3 C3.89543,3 3,3.89543 3,5 L3,15 C3,16.1046 3.89543,17 5,17 L9.9677,17 C9.85434,18.6345 9.47885,19.1227 9.42098,19.1882 C8.975,19.5319 8.99736,20.0478 9.08179,20.304 C9.16798,20.5656 9.46343,21 10.0424,21 L13.9577,21 C14.5367,21 14.8321,20.5656 14.9183,20.3041 C15.0027,20.0478 15.0251,19.5319 14.5791,19.1882 C14.5213,19.1227 14.1458,18.6345 14.0324,17 L19,17 C20.1046,17 21,16.1046 21,15 L21,5 C21,3.89543 20.1046,3 19,3 L5,3 Z M5,15 L5,13 L19,13 L19,15 L5,15 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

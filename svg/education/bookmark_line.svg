@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bookmark_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Education" transform="translate(-96.000000, 0.000000)">
+            <g id="bookmark_line" transform="translate(96.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M4,5 C4,3.34315 5.34315,2 7,2 L17,2 C18.6569,2 20,3.34315 20,5 L20,20.0568 C20,21.6836 18.1613,22.6298 16.8375,21.6843 L12,18.2289 L7.16248,21.6843 C5.83874,22.6298 4,21.6836 4,20.0568 L4,5 Z M7,4 C6.44772,4 6,4.44772 6,5 L6,20.0568 L10.8375,16.6014 C11.5329,16.1047 12.4671,16.1047 13.1625,16.6014 L18,20.0568 L18,5 C18,4.44772 17.5523,4 17,4 L7,4 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hospital_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Building" transform="translate(-384.000000, -48.000000)">
+            <g id="hospital_fill" transform="translate(384.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M5,2 C3.89543,2 3,2.89543 3,4 L3,20.9 C3,21.5075 3.49249,22 4.1,22 L19.9,22 C20.5075,22 21,21.5075 21,20.9 L21,11 C21,9.89543 20.1046,9 19,9 L18.5,9 C18.2239,9 18,9.22386 18,9.5 L18,20 L17,20 L17,4 C17,2.89543 16.1046,2 15,2 L5,2 Z M10,5 C9.44772,5 9,5.44772 9,6 L9,7 L8,7 C7.44772,7 7,7.44772 7,8 C7,8.55228 7.44772,9 8,9 L9,9 L9,10 C9,10.5523 9.44772,11 10,11 C10.5523,11 11,10.5523 11,10 L11,9 L12,9 C12.5523,9 13,8.55228 13,8 C13,7.44772 12.5523,7 12,7 L11,7 L11,6 C11,5.44772 10.5523,5 10,5 Z M10,14 C8.89543,14 8,14.8954 8,16 L8,20 L12,20 L12,16 C12,14.8954 11.1046,14 10,14 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

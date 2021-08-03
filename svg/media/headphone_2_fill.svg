@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>headphone_2_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Media" transform="translate(-1392.000000, -48.000000)">
+            <g id="headphone_2_fill" transform="translate(1392.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M5,11 C5,7.13401 8.13401,4 12,4 C15.866,4 19,7.13401 19,11 L19,13.0354 C20.6961,13.2781 22,14.7368 22,16.5 L22,16.75 C22,18.5449 20.5449,20 18.75,20 C17.7835,20 17,19.2165 17,18.25 L17,11 C17,8.23858 14.7614,6 12,6 C9.23858,6 7,8.23858 7,11 L7,18.25 C7,19.2165 6.2165,20 5.25,20 C3.45507,20 2,18.5449 2,16.75 L2,16.5 C2,14.7368 3.30385,13.2781 5,13.0354 L5,11 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>music_2_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Media" transform="translate(-1488.000000, -48.000000)" fill-rule="nonzero">
+            <g id="music_2_fill" transform="translate(1488.000000, 48.000000)">
+                <rect id="矩形" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M18.6325,9.17667 L14,10.7208 L14,17.5001 C14,19.9853 11.9853,22.0001 9.5,22.0001 C7.01472,22.0001 5,19.9853 5,17.5001 C5,15.0148 7.01472,13.0001 9.5,13.0001 C10.4251,13.0001 11.285,13.2792 12,13.7578 L12,6.44158 C12,5.15029 12.8263,4.00387 14.0513,3.59553 L18.0257,2.27075 C18.997,1.94699 20,2.66994 20,3.69378 L20,7.2793 C20,8.14017 19.4491,8.90444 18.6325,9.17667 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

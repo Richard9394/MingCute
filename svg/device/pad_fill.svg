@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pad_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Device" transform="translate(-1008.000000, -48.000000)">
+            <g id="pad_fill" transform="translate(1008.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M6,2 C4.89543,2 4,2.89543 4,4 L4,20 C4,21.1046 4.89543,22 6,22 L18,22 C19.1046,22 20,21.1046 20,20 L20,4 C20,2.89543 19.1046,2 18,2 L6,2 Z M11.5,16 C11.2239,16 11,16.2239 11,16.5 L11,17.5 C11,17.7761 11.2239,18 11.5,18 L12.5,18 C12.7761,18 13,17.7761 13,17.5 L13,16.5 C13,16.2239 12.7761,16 12.5,16 L11.5,16 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
