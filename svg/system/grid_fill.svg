@@ -1,7 +1,12 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" transform="matrix(-1 0 0 1 24 0)" fill="white" fill-opacity="0.01"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M3 5C3 3.89543 3.89543 3 5 3H9C10.1046 3 11 3.89543 11 5V9C11 10.1046 10.1046 11 9 11H5C3.89543 11 3 10.1046 3 9V5Z" fill="#09244B"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M13 5C13 3.89543 13.8954 3 15 3H19C20.1046 3 21 3.89543 21 5V9C21 10.1046 20.1046 11 19 11H15C13.8954 11 13 10.1046 13 9V5Z" fill="#09244B"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M3 15C3 13.8954 3.89543 13 5 13H9C10.1046 13 11 13.8954 11 15V19C11 20.1046 10.1046 21 9 21H5C3.89543 21 3 20.1046 3 19V15Z" fill="#09244B"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M13 15C13 13.8954 13.8954 13 15 13H19C20.1046 13 21 13.8954 21 15V19C21 20.1046 20.1046 21 19 21H15C13.8954 21 13 20.1046 13 19V15Z" fill="#09244B"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>grid_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="System" transform="translate(-576.000000, -48.000000)">
+            <g id="grid_fill" transform="translate(576.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M9,13 C10.1046,13 11,13.8954 11,15 L11,19 C11,20.1046 10.1046,21 9,21 L5,21 C3.89543,21 3,20.1046 3,19 L3,15 C3,13.8954 3.89543,13 5,13 L9,13 Z M19,13 C20.1046,13 21,13.8954 21,15 L21,19 C21,20.1046 20.1046,21 19,21 L15,21 C13.8954,21 13,20.1046 13,19 L13,15 C13,13.8954 13.8954,13 15,13 L19,13 Z M9,3 C10.1046,3 11,3.89543 11,5 L11,9 C11,10.1046 10.1046,11 9,11 L5,11 C3.89543,11 3,10.1046 3,9 L3,5 C3,3.89543 3.89543,3 5,3 L9,3 Z M19,3 C20.1046,3 21,3.89543 21,5 L21,9 C21,10.1046 20.1046,11 19,11 L15,11 C13.8954,11 13,10.1046 13,9 L13,5 C13,3.89543 13.8954,3 15,3 L19,3 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
 </svg>

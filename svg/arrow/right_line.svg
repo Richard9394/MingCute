@@ -1,4 +1,12 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="white" fill-opacity="0.01"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M15.7072 11.2929C16.0977 11.6834 16.0977 12.3166 15.7072 12.7071L10.0503 18.364C9.65982 18.7545 9.02666 18.7545 8.63613 18.364C8.24561 17.9734 8.24561 17.3403 8.63613 16.9497L13.5859 12L8.63613 7.05025C8.24561 6.65973 8.24561 6.02656 8.63613 5.63604C9.02666 5.24551 9.65982 5.24551 10.0503 5.63604L15.7072 11.2929Z" fill="#09244B"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>right_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arrow" transform="translate(-384.000000, 0.000000)">
+            <g id="right_line" transform="translate(384.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M15.7072,11.2929 C16.0977,11.6834 16.0977,12.3166 15.7072,12.7071 L10.0503,18.364 C9.65982,18.7545 9.02666,18.7545 8.63613,18.364 C8.24561,17.9734 8.24561,17.3403 8.63613,16.9497 L13.5859,12 L8.63613,7.05025 C8.24561,6.65973 8.24561,6.02656 8.63613,5.63604 C9.02666,5.24551 9.65982,5.24551 10.0503,5.63604 L15.7072,11.2929 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
 </svg>

@@ -1,5 +1,12 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="white" fill-opacity="0.01"/>
-<path d="M2 7C2 5.34315 3.34315 4 5 4H19C20.6569 4 22 5.34315 22 7V8H2V7Z" fill="#09244B"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M2 10H22V17C22 18.6569 20.6569 20 19 20H5C3.34315 20 2 18.6569 2 17V10ZM15 14C14.4477 14 14 14.4477 14 15C14 15.5523 14.4477 16 15 16H18C18.5523 16 19 15.5523 19 15C19 14.4477 18.5523 14 18 14H15Z" fill="#09244B"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bank_card_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business" transform="translate(-48.000000, -48.000000)" fill-rule="nonzero">
+            <g id="bank_card_fill" transform="translate(48.000000, 48.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M22,10 L22,17 C22,18.6569 20.6569,20 19,20 L5,20 C3.34315,20 2,18.6569 2,17 L2,10 L22,10 Z M18,14 L15,14 C14.4477,14 14,14.4477 14,15 C14,15.5523 14.4477,16 15,16 L18,16 C18.5523,16 19,15.5523 19,15 C19,14.4477 18.5523,14 18,14 Z M19,4 C20.6569,4 22,5.34315 22,7 L22,8 L2,8 L2,7 C2,5.34315 3.34315,4 5,4 L19,4 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
 </svg>

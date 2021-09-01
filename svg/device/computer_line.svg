@@ -1,4 +1,10 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="white" fill-opacity="0.01"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M3 5C3 3.89543 3.89543 3 5 3H19C20.1046 3 21 3.89543 21 5V16C21 17.1046 20.1046 18 19 18H13V19H15C15.5523 19 16 19.4477 16 20C16 20.5523 15.5523 21 15 21H9C8.44772 21 8 20.5523 8 20C8 19.4477 8.44772 19 9 19H11V18H5C3.89543 18 3 17.1046 3 16V5ZM19 5H5V16H19V5Z" fill="#09244B"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>computer_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="computer_line">
+            <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+            <path d="M19,3 C20.1046,3 21,3.89543 21,5 L21,5 L21,16 C21,17.1046 20.1046,18 19,18 L19,18 L15,18 L15,19 L16,19 C16.5523,19 17,19.4477 17,20 C17,20.5523 16.5523,21 16,21 L16,21 L8,21 C7.44772,21 7,20.5523 7,20 C7,19.4477 7.44772,19 8,19 L8,19 L9,19 L9,18 L5,18 C3.89543,18 3,17.1046 3,16 L3,16 L3,5 C3,3.89543 3.89543,3 5,3 L5,3 Z M13,18 L11,18 L11,19 L13,19 L13,18 Z M19,5 L5,5 L5,16 L19,16 L19,5 Z" id="形状结合" fill="#09244B" fill-rule="nonzero"></path>
+        </g>
+    </g>
 </svg>

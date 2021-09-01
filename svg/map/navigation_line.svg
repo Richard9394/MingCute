@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>navigation_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Map" transform="translate(-192.000000, 0.000000)">
+            <g id="navigation_line" transform="translate(192.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M18.8462,5.15014 L5.67315,9.89244 L10.9179,11.9447 C11.4374,12.148 11.8483,12.559 12.0516,13.0784 L14.1039,18.3232 L18.8462,5.15014 Z M19.7683,2.69254 C20.7236,2.34862 21.6477,3.27271 21.3038,4.22807 L15.2642,21.0048 C14.8888,22.0475 13.4215,22.0676 13.0176,21.0356 L10.1891,13.8072 L2.96072,10.9787 C1.9287,10.5749 1.94885,9.10754 2.99154,8.73217 L19.7683,2.69254 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

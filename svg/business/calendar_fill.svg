@@ -1,5 +1,12 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="white" fill-opacity="0.01"/>
-<path d="M7 4C7 3.44772 7.44772 3 8 3C8.55228 3 9 3.44772 9 4V5H15V4C15 3.44772 15.4477 3 16 3C16.5523 3 17 3.44772 17 4V5H19C20.1046 5 21 5.89543 21 7V10H3V7C3 5.89543 3.89543 5 5 5H7V4Z" fill="#09244B"/>
-<path d="M3 12H21V19C21 20.1046 20.1046 21 19 21H5C3.89543 21 3 20.1046 3 19V12Z" fill="#09244B"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>calendar_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business" transform="translate(-144.000000, -48.000000)" fill-rule="nonzero">
+            <g id="calendar_fill" transform="translate(144.000000, 48.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M21,12 L21,19 C21,20.1046 20.1046,21 19,21 L5,21 C3.89543,21 3,20.1046 3,19 L3,12 L21,12 Z M16,3 C16.5523,3 17,3.44772 17,4 L17,5 L19,5 C20.1046,5 21,5.89543 21,7 L21,10 L3,10 L3,7 C3,5.89543 3.89543,5 5,5 L7,5 L7,4 C7,3.44772 7.44772,3 8,3 C8.55228,3 9,3.44772 9,4 L9,5 L15,5 L15,4 C15,3.44772 15.4477,3 16,3 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
 </svg>

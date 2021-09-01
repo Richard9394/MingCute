@@ -1,4 +1,12 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="white" fill-opacity="0.01"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M10.7722 2.68814C11.4944 2.12641 12.5057 2.12641 13.2279 2.68814L21.6117 9.20884C22.3648 9.79463 21.9492 11 20.9971 11H20.0001V19C20.0001 20.1046 19.1046 21 18.0001 21H6.00005C4.89548 21 4.00005 20.1046 4.00005 19V11H3.00297C2.04989 11 1.63605 9.79401 2.38841 9.20884L10.7722 2.68814Z" fill="#09244B"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>home_2_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Building" transform="translate(-48.000000, -48.000000)">
+            <g id="home_2_fill" transform="translate(48.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M10.7722,2.68814 C11.4944,2.12641 12.5057,2.12641 13.2279,2.68814 L21.6117,9.20884 C22.3648,9.79463 21.9492,11 20.9971,11 L20.0001,11 L20.0001,19 C20.0001,20.1046 19.1046,21 18.0001,21 L6.00005,21 C4.89548,21 4.00005,20.1046 4.00005,19 L4.00005,11 L3.00297,11 C2.04989,11 1.63605,9.79401 2.38841,9.20884 L10.7722,2.68814 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
 </svg>

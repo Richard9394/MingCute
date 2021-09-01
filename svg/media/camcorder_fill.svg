@@ -1,4 +1,12 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="white" fill-opacity="0.01"/>
-<path d="M4 4C2.89543 4 2 4.89543 2 6V18C2 19.1046 2.89543 20 4 20H16C17.1046 20 18 19.1046 18 18V15.7905L20.0944 17.0807C20.9272 17.5938 22 16.9946 22 16.0165V7.98353C22 7.00536 20.9272 6.40622 20.0944 6.91926L18 8.20945V6C18 4.89543 17.1046 4 16 4H4Z" fill="#09244B"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>camcorder_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Media" transform="translate(-48.000000, -48.000000)" fill-rule="nonzero">
+            <g id="camcorder_fill" transform="translate(48.000000, 48.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M4,4 C2.89543,4 2,4.89543 2,6 L2,18 C2,19.1046 2.89543,20 4,20 L16,20 C17.1046,20 18,19.1046 18,18 L18,15.7905 L20.0944,17.0807 C20.9272,17.5938 22,16.9946 22,16.0165 L22,7.98353 C22,7.00536 20.9272,6.40622 20.0944,6.91926 L18,8.20945 L18,6 C18,4.89543 17.1046,4 16,4 L4,4 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
 </svg>

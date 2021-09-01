@@ -1,5 +1,12 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="white" fill-opacity="0.01"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M5 4C3.89543 4 3 4.89543 3 6V16C3 17.1046 3.89543 18 5 18H19C20.1046 18 21 17.1046 21 16V6C21 4.89543 20.1046 4 19 4H5ZM5 6L19 6V16H5V6Z" fill="#09244B"/>
-<path d="M3 19C2.44772 19 2 19.4477 2 20C2 20.5523 2.44772 21 3 21H21C21.5523 21 22 20.5523 22 20C22 19.4477 21.5523 19 21 19H3Z" fill="#09244B"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>laptop_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Device" transform="translate(-528.000000, 0.000000)">
+            <g id="laptop_line" transform="translate(528.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M21,19 C21.5523,19 22,19.4477 22,20 C22,20.51285 21.613973,20.9355092 21.1166239,20.9932725 L21,21 L3,21 C2.44772,21 2,20.5523 2,20 C2,19.48715 2.38604429,19.0644908 2.88337975,19.0067275 L3,19 L21,19 Z M19,4 C20.0543909,4 20.9181678,4.81587733 20.9945144,5.85073759 L21,6 L21,16 C21,17.0543909 20.18415,17.9181678 19.1492661,17.9945144 L19,18 L5,18 C3.94563773,18 3.08183483,17.18415 3.00548573,16.1492661 L3,16 L3,6 C3,4.94563773 3.81587733,4.08183483 4.85073759,4.00548573 L5,4 L19,4 Z M19,6 L5,6 L5,16 L19,16 L19,6 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
 </svg>

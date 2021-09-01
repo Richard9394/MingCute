@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>compass_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Map" transform="translate(-48.000000, -48.000000)" fill-rule="nonzero">
+            <g id="compass_fill" transform="translate(48.000000, 48.000000)">
+                <rect id="矩形" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,2 C17.5228,2 22,6.47715 22,12 C22,17.5228 17.5228,22 12,22 C6.47715,22 2,17.5228 2,12 C2,6.47715 6.47715,2 12,2 Z M16.2427,7.75734 C15.8891,7.40379 11.2929,8.46445 9.87873,9.87866 C8.46452,11.2929 7.40386,15.8891 7.75741,16.2426 C8.11097,16.5962 12.7072,15.5355 14.1214,14.1213 C15.5356,12.7071 16.5962,8.1109 16.2427,7.75734 Z M12,11 C12.5523,11 13,11.4477 13,12 C13,12.5523 12.5523,13 12,13 C11.4477,13 11,12.5523 11,12 C11,11.4477 11.4477,11 12,11 Z" id="形状结合" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,4 +1,12 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="white" fill-opacity="0.01"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M5.00053 10.4161C5.04543 6.86494 7.93814 4 11.5 4C14.2856 4 16.66 5.75154 17.5856 8.21198C20.13 8.90766 22 11.2346 22 14C22 17.3137 19.3137 20 16 20H7C4.23858 20 2 17.7614 2 15C2 12.9486 3.23468 11.1875 5.00053 10.4161Z" fill="#09244B"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cloud_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Weather" transform="translate(-1.000000, -48.000000)">
+            <g id="cloud_fill" transform="translate(1.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M5.00053,10.4161 C5.04543,6.86494 7.93814,4 11.5,4 C14.2856,4 16.66,5.75154 17.5856,8.21198 C20.13,8.90766 22,11.2346 22,14 C22,17.3137 19.3137,20 16,20 L7,20 C4.23858,20 2,17.7614 2,15 C2,12.9486 3.23468,11.1875 5.00053,10.4161 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
 </svg>
