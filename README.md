@@ -10,5 +10,5 @@ Copy the font files from  `/fonts` and import the `mingcute.css` file. Add icon 
 <span class="mgc_search_fill"></span>
 ```
 ## License
-MingCute icon is available under the MIT. Feel free to use the set in both personal and commercial projects. Attribution is much appreciated but not required.The only thing we ask is that these icons are not for sale.
+MingCute icon is available under [Apache-2.0 License](https://github.com/Richard9394/MingCute/blob/main/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution is much appreciated but not required.The only thing we ask is that these icons are not for sale.
 
