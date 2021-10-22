@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flip_vertical_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design" transform="translate(-192.000000, 0.000000)">
+            <g id="flip_vertical_line" transform="translate(192.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,2 C12.5522,2 13,2.44772 13,3 L13,21 C13,21.5523 12.5522,22 12,22 C11.4477,22 11,21.5523 11,21 L11,3 C11,2.44772 11.4477,2 12,2 Z M7.86404,5.20735 C8.27923,4.04481 9.99996,4.34286 9.99996,5.57732 L9.99996,18.9 C9.99996,19.5075 9.50748,20 8.89996,20 L4.14186,20 C3.38117,20 2.8501,19.2464 3.10594,18.53 L7.86404,5.20735 Z M7.99996,10.7732 L5.41896,18 L7.99996,18 L7.99996,10.7732 Z M14,5.57732 C14,4.34286 15.7207,4.04481 16.1359,5.20735 L20.894,18.53 C21.1498,19.2464 20.6187,20 19.8581,20 L15.1,20 C14.4924,20 14,19.5075 14,18.9 L14,5.57732 Z M18.5809,18 L16,10.7732 L16,18 L18.5809,18 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>battery_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Device" transform="translate(-144.000000, -144.000000)" fill-rule="nonzero">
+            <g id="battery_fill" transform="translate(144.000000, 144.000000)">
+                <rect id="矩形" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M4,6 C2.89543,6 2,6.89543 2,8 L2,16 C2,17.1046 2.89543,18 4,18 L18,18 C19.1046,18 20,17.1046 20,16 L20,15 C21.1046,15 22,14.1046 22,13 L22,11 C22,9.89543 21.1046,9 20,9 L20,8 C20,6.89543 19.1046,6 18,6 L4,6 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

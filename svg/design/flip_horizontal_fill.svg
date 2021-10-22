@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flip_horizontal_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design" transform="translate(-144.000000, -48.000000)">
+            <g id="flip_horizontal_fill" transform="translate(144.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " x="0" y="0" width="24" height="24"></rect>
+                <path d="M18.4227,14 C19.6571,14 19.9552,15.7208 18.7926,16.136 L5.46997,20.8941 C4.7536,21.1499 4,20.6188 4,19.8581 L4,15.1 C4,14.4925 4.4925,14 5.1,14 L18.4227,14 Z M21,11 C21.5523,11 22,11.4478 22,12 C22,12.5523 21.5523,13 21,13 L3,13 C2.44772,13 2,12.5523 2,12 C2,11.4478 2.44772,11 3,11 L21,11 Z M5.46997,3.10603 L18.7926,7.86413 C19.9552,8.27932 19.6571,10 18.4227,10 L5.1,10 C4.49249,10 4,9.50757 4,8.90005 L4,4.14195 C4,3.38126 4.7536,2.85018 5.46997,3.10603 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

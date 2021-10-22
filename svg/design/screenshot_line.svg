@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>screenshot_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design" transform="translate(-624.000000, 0.000000)" fill-rule="nonzero">
+            <g id="screenshot_line" transform="translate(624.000000, 0.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M17,5 C18.0543909,5 18.9181678,5.81587733 18.9945144,6.85073759 L19,7 L19,17 L21,17 C21.5523,17 22,17.4477 22,18 C22,18.51285 21.613973,18.9355092 21.1166239,18.9932725 L21,19 L19,19 L19,21 C19,21.5523 18.5523,22 18,22 C17.48715,22 17.0644908,21.613973 17.0067275,21.1166239 L17,21 L17,7 L9,7 L9,5 L17,5 Z M6,2 C6.51283143,2 6.93550653,2.38604429 6.9932722,2.88337975 L7,3 L7,17 L15,17 L15,19 L7,19 C5.94563773,19 5.08183483,18.18415 5.00548573,17.1492661 L5,17 L5,7 L3,7 C2.44772,7 2,6.55228 2,6 C2,5.48716857 2.38604429,5.06449347 2.88337975,5.0067278 L3,5 L5,5 L5,3 C5,2.44772 5.44772,2 6,2 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
