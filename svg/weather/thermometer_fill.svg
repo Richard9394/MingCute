@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thermometer_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Weather" transform="translate(-624.000000, -48.000000)">
+            <g id="thermometer_fill" transform="translate(624.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M9,5 C9,3.34315 10.3431,2 12,2 C13.6569,2 15,3.34315 15,5 L15,12.9559 C15.0007,12.9588 15.003,12.9657 15.0093,12.9771 C15.0228,13.0016 15.0504,13.0376 15.0965,13.074 C16.2541,13.988 17,15.4072 17,17 C17,19.7614 14.7614,22 12,22 C9.23858,22 7,19.7614 7,17 C7,15.4072 7.74591,13.988 8.90349,13.074 C8.94963,13.0376 8.97723,13.0016 8.9907,12.9771 C8.99697,12.9657 8.99926,12.9588 9,12.9559 L9,5 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

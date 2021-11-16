@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flask_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Education" transform="translate(-576.000000, -48.000000)" fill-rule="nonzero">
+            <g id="flask_fill" transform="translate(576.000000, 48.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M14.9999,9.63128 L14.9999,4 L15.9999,4 C16.5522,4 16.9999,3.55228 16.9999,3 C16.9999,2.44772 16.5522,2 15.9999,2 L7.99994,2 C7.44765,2 6.99994,2.44772 6.99994,3 C6.99994,3.55228 7.44765,4 7.99994,4 L8.99993,4 L8.99993,9.63128 L3.77339,17.3123 C2.41818,19.304 3.84467,22 6.25366,22 L17.7462,22 C20.1552,22 21.5817,19.3039 20.2265,17.3123 L14.9999,9.63128 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

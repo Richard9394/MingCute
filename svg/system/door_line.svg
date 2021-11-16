@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>door_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="System" transform="translate(-624.000000, -96.000000)" fill-rule="nonzero">
+            <g id="door_line" transform="translate(624.000000, 96.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M17,3 C18.1046,3 19,3.89543 19,5 L19,19 L20,19 C20.5523,19 21,19.4477 21,20 C21,20.5523 20.5523,21 20,21 L4,21 C3.44772,21 3,20.5523 3,20 C3,19.4477 3.44772,19 4,19 L5,19 L5,5 C5,3.89543 5.89543,3 7,3 L17,3 Z M17,5 L7,5 L7,19 L17,19 L17,5 Z M14.5,11 C15.3284,11 16,11.6716 16,12.5 C16,13.3284 15.3284,14 14.5,14 C13.6716,14 13,13.3284 13,12.5 C13,11.6716 13.6716,11 14.5,11 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

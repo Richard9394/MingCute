@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fridge_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Device" transform="translate(-864.000000, -144.000000)">
+            <g id="fridge_fill" transform="translate(864.000000, 144.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M7,2 C5.89543,2 5,2.89543 5,4 L5,20 C5,21.1046 5.89543,22 7,22 L17,22 C18.1046,22 19,21.1046 19,20 L19,4 C19,2.89543 18.1046,2 17,2 L7,2 Z M10,6 C10,5.44772 9.55228,5 9,5 C8.44772,5 8,5.44772 8,6 L8,8 C8,8.55228 8.44772,9 9,9 C9.55228,9 10,8.55228 10,8 L10,6 Z M9,15 C9.55228,15 10,15.4477 10,16 L10,18 C10,18.5523 9.55228,19 9,19 C8.44772,19 8,18.5523 8,18 L8,16 C8,15.4477 8.44772,15 9,15 Z M8,11 C7.44772,11 7,11.4477 7,12 C7,12.5523 7.44772,13 8,13 L16,13 C16.5523,13 17,12.5523 17,12 C17,11.4477 16.5523,11 16,11 L8,11 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

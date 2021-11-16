@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>paster_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design" transform="translate(-96.000000, -144.000000)" fill-rule="nonzero">
+            <g id="paster_fill" transform="translate(96.000000, 144.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12.117375,2.00058125 L12.2343,2.00261 C11.4954,3.23739 11,4.53612 11,6 C11,9.86599 14.134,13 18,13 C19.4611,13 20.7644,12.5038 21.9974,11.7657 L22,12 L22,12 C22,17.5228 17.5228,22 12,22 C6.47715,22 2,17.5228 2,12 C2,6.57075763 6.32666837,2.1520682 11.720095,2.0038418 L12.117375,2.00058125 L12.117375,2.00058125 Z M14.1146,2.75536 L21.2446,9.88535 C20.2254,10.4956 19.2281,11 18,11 C15.2386,11 13,8.76142 13,6 C13,4.86641538 13.4297846,3.92944615 13.9758442,2.99030545 L14.1146,2.75536 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

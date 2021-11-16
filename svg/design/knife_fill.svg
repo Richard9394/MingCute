@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>knife_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design" transform="translate(0.000000, -144.000000)">
+            <g id="knife_fill" transform="translate(0.000000, 144.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M3.29382,20.37 C2.42176,20.0793 2.16048,18.9725 2.81048,18.3225 L17.7426,3.39039 C18.3284,2.8046 19.2781,2.8046 19.8639,3.39039 L21.2781,4.8046 C21.8639,5.39039 21.8639,6.34014 21.2781,6.92592 L16.682,11.5221 L18.6097,13.4499 C19.1294,13.9696 19.0907,14.8235 18.526,15.294 L15.1104,18.1404 C11.8234,20.8796 7.35303,21.7231 3.29382,20.37 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
