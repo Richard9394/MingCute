@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>formula_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Editor" transform="translate(-480.000000, -96.000000)">
+            <g id="formula_line" transform="translate(480.000000, 96.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M5,4.5 C5,3.67157 5.67157,3 6.5,3 L17.5,3 C18.3284,3 19,3.67157 19,4.5 L19,5 C19,5.55228 18.5523,6 18,6 C17.4477,6 17,5.55228 17,5 L7,5 L7,5.54007 L13.5622,11.1648 C14.0744,11.6038 14.0744,12.3962 13.5622,12.8352 L7,18.4599 L7,19 L17,19 C17,18.4477 17.4477,18 18,18 C18.5523,18 19,18.4477 19,19 L19,19.5 C19,20.3284 18.3284,21 17.5,21 L6.5,21 C5.67157,21 5,20.3284 5,19.5 L5,18.23 C5,17.7921 5.19134,17.3761 5.52381,17.0911 L11.4634,12 L5.52381,6.90892 C5.19134,6.62394 5,6.20792 5,5.77003 L5,4.5 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

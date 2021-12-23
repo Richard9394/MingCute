@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>greatwall_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Building" transform="translate(-672.000000, 0.000000)">
+            <g id="greatwall_line" transform="translate(672.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M3.5,3 C2.67157,3 2,3.67157 2,4.5 L2,19.5 C2,20.3284 2.67157,21 3.5,21 L20.5,21 C21.3284,21 22,20.3284 22,19.5 L22,4.5 C22,3.67157 21.3284,3 20.5,3 L17.5,3 C16.6716,3 16,3.67157 16,4.5 L16,6 L15,6 L15,4.5 C15,3.67157 14.3284,3 13.5,3 L10.5,3 C9.67157,3 9,3.67157 9,4.5 L9,6 L8,6 L8,4.5 C8,3.67157 7.32843,3 6.5,3 L3.5,3 Z M17,19 L20,19 L20,16 L17,16 L17,19 Z M15,16 L15,19 L9,19 L9,16 L15,16 Z M7,19 L7,16 L4,16 L4,19 L7,19 Z M20,14 L20,12 L13,12 L13,14 L20,14 Z M11,12 L11,14 L4,14 L4,12 L11,12 Z M20,10 L20,5 L18,5 L18,6.5 C18,7.32843 17.3284,8 16.5,8 L14.5,8 C13.6716,8 13,7.32843 13,6.5 L13,5 L11,5 L11,6.5 C11,7.32843 10.3284,8 9.5,8 L7.5,8 C6.67157,8 6,7.32843 6,6.5 L6,5 L4,5 L4,10 L20,10 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
