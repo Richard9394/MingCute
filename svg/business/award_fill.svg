@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>award_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business" transform="translate(-48.000000, -240.000000)" fill-rule="nonzero">
+            <g id="award_fill" transform="translate(48.000000, 240.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,2 C16.4183,2 20,5.58172 20,10 C20,12.5264 18.8289,14.7793 17,16.2454 L17,20.8557 C17,21.6237 16.2329,22.1553 15.5138,21.8857 L12,20.568 L8.48624,21.8857 C7.76711,22.1553 7,21.6237 7,20.8557 L7,16.2454 C5.17108,14.7793 4,12.5264 4,10 C4,5.58172 7.58172,2 12,2 Z M12,4 C8.68629,4 6,6.68629 6,10 C6,13.3137 8.68629,16 12,16 C15.3137,16 18,13.3137 18,10 C18,6.68629 15.3137,4 12,4 Z M12,6 C14.2091,6 16,7.79086 16,10 C16,12.2091 14.2091,14 12,14 C9.79086,14 8,12.2091 8,10 C8,7.79086 9.79086,6 12,6 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

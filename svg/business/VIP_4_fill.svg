@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>VIP_4_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business" transform="translate(-288.000000, -240.000000)">
+            <g id="VIP_4_fill" transform="translate(288.000000, 240.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M11.1992,1.40101 C11.5997,0.867117 12.4005,0.86717 12.8008,1.40101 L15.5,4.99994 L20.1451,4.99994 C21.2924,4.99994 22.0149,6.23543 21.4525,7.23534 L13.0895,22.1028 C12.6116,22.9524 11.3885,22.9524 10.9106,22.1028 L2.5476,7.23534 C1.98516,6.23543 2.70773,4.99994 3.85497,4.99994 L8.50004,4.99994 L11.1992,1.40101 Z M11.9967,3.66663 L9.33002,7.22218 L11.9967,11.6666 L14.6633,7.22218 L11.9967,3.66663 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

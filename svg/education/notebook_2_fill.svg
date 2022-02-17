@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>notebook_2_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Education" transform="translate(-768.000000, -48.000000)" fill-rule="nonzero">
+            <g id="notebook_2_fill" transform="translate(768.000000, 48.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M6,2 C4.89543,2 4,2.89543 4,4 L4,20 C4,21.1046 4.89543,22 6,22 L17,22 C18.6569,22 20,20.6569 20,19 L20,5 C20,3.34315 18.6569,2 17,2 L16,2 L16,11.7929 C16,12.2383 15.4614,12.4614 15.1464,12.1464 L13.3536,10.3536 C13.1583,10.1583 12.8417,10.1583 12.6464,10.3536 L10.8536,12.1464 C10.5386,12.4614 10,12.2383 10,11.7929 L10,2 L6,2 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
