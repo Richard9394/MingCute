@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>facebook_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Brand" transform="translate(-240.000000, -0.000000)">
+            <g id="facebook_line" transform="translate(240.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M4,12 C4,7.58172 7.58172,4 12,4 C16.4183,4 20,7.58172 20,12 C20,16.0796 16.9463,19.446 13,19.9381 L13,14 L15,14 C15.5523,14 16,13.5523 16,13 C16,12.4477 15.5523,12 15,12 L13,12 L13,10 C13,9.44772 13.4477,9 14,9 L14.5,9 C15.0523,9 15.5,8.55228 15.5,8 C15.5,7.44772 15.0523,7 14.5,7 L14,7 C12.3431,7 11,8.34315 11,10 L11,12 L9,12 C8.44772,12 8,12.4477 8,13 C8,13.5523 8.44772,14 9,14 L11,14 L11,19.9381 C7.05369,19.446 4,16.0796 4,12 Z M12,22 C17.5228,22 22,17.5228 22,12 C22,6.47715 17.5228,2 12,2 C6.47715,2 2,6.47715 2,12 C2,17.5228 6.47715,22 12,22 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

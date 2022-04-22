@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>forward_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arrow" transform="translate(-576.000000, 0.000000)">
+            <g id="forward_line" transform="translate(576.000000, 0.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M20.9239,5.61732 C20.7691,5.24364 20.4044,5 20,5 L9.99997,5 C6.13398,5 2.99997,8.13401 2.99997,12 C2.99997,15.866 6.13398,19 9.99997,19 L19,19 C19.5523,19 20,18.5523 20,18 C20,17.4477 19.5523,17 19,17 L9.99997,17 C7.23855,17 4.99997,14.7614 4.99997,12 C4.99997,9.23858 7.23855,7 9.99997,7 L17.5858,7 L15.7929,8.79289 C15.4023,9.18342 15.4023,9.81658 15.7929,10.2071 C16.1834,10.5976 16.8166,10.5976 17.2071,10.2071 L20.7071,6.70711 C20.9931,6.42111 21.0786,5.99099 20.9239,5.61732 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

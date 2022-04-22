@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>edit_3_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Editor" transform="translate(-144.000000, -192.000000)">
+            <g id="edit_3_line" transform="translate(144.000000, 192.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M16.7243,3.03 C15.9432,2.24895 14.6769,2.24895 13.8958,3.03 L3.58212,13.3437 C3.20705,13.7188 2.99634,14.2275 2.99634,14.7579 L2.99634,19.9906 C2.99634,20.5484 3.44857,21.0006 4.00634,21.0006 L20,21 C20.5523,21 21,20.5523 21,20 C21,19.4477 20.5523,19 20,19 L12.068,19 L20.9669,10.1011 C21.7479,9.32002 21.7479,8.05369 20.9669,7.27264 L16.7243,3.03 Z M9.23957,19 L19.5527,8.68685 L15.31,4.44421 L4.99634,14.7579 L4.99634,19.0006 C6.41074,19.0006 7.8252,19 9.23957,19 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
