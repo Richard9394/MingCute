@@ -1,6 +1,8 @@
+![image](https://github.com/Richard9394/MingCute/raw/main/MingCute_cover.png "MingCute Icon")
 # MingCute Icon
 MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.Every icon is designed within a 24 x 24 grid, giving outline and filled styles, 2px stroke. Support for SVG,PNG and webfont.
-![image](https://github.com/Richard9394/MingCute/raw/main/mingcute.png "MingCute Icon")
+## Preview
+![image](https://github.com/Richard9394/MingCute/raw/main/MingCute_icon.png "MingCute Icon")
 ## Usage
 Head on to the website of [MingCute](https://www.mingcute.com/). Click the icons, you can adjust the color size, and then download the icons in SVG or PNG format. 
 ## Webfont
