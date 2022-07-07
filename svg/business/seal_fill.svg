@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>seal_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business" transform="translate(-528.000000, -240.000000)">
+            <g id="seal_fill" transform="translate(528.000000, 240.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M6,8 C6,4.68629 8.68629,2 12,2 C15.3137,2 18,4.68629 18,8 C18,10.4618 16.5176,12.575 14.4009,13.5001 C14.3112,13.5393 14.264,13.6151 14.2615,13.6235 L14.3597,15 L18,15 C19.6569,15 21,16.3431 21,18 L21,20 C21,21.1046 20.1046,22 19,22 L5,22 C3.89543,22 3,21.1046 3,20 L3,18 C3,16.3431 4.34315,15 6,15 L9.64031,15 L9.7386,13.624 C9.73613,13.6155 9.68878,13.5393 9.59915,13.5001 C7.48241,12.575 6,10.4618 6,8 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

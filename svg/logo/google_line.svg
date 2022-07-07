@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>google_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(-192.000000, -96.000000)">
+            <g id="google_line" transform="translate(192.000000, 96.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,5 C8.13401,5 5,8.13401 5,12 C5,15.866 8.13401,19 12,19 C15.5265,19 18.4439,16.3923 18.9291,13 L13,13 C12.4477,13 12,12.5523 12,12 C12,11.4477 12.4477,11 13,11 L20,11 C20.5523,11 21,11.4477 21,12 C21,16.9706 16.9706,21 12,21 C7.02944,21 3,16.9706 3,12 C3,7.02944 7.02944,3 12,3 C14.4761,3 16.7202,4.00122 18.3464,5.61854 C18.738,6.008 18.7397,6.64116 18.3503,7.03275 C17.9608,7.42434 17.3277,7.42608 16.9361,7.03662 C15.6693,5.77681 13.9264,5 12,5 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

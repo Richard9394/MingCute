@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>google_play_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(-240.000000, -96.000000)">
+            <g id="google_play_line" transform="translate(240.000000, 96.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M20.25,10.7009 C21.25,11.2782 21.25,12.7216 20.25,13.2989 L5.25,21.9592 C4.25,22.5365 3,21.8149 3,20.6601 L3,3.33964 C3,2.18495 4.25,1.46325 5.25,2.0406 L20.25,10.7009 Z M18.5,11.9999 L15.2765,10.1388 L13.4204,11.9999 L15.2765,13.861 L18.5,11.9999 Z M6.64387,18.7949 L13.3842,14.7958 L12.0082,13.416 L6.64387,18.7949 Z M12.0082,10.5837 L13.3842,9.20398 L6.64411,5.20504 L12.0082,10.5837 Z M5.00005,6.38877 L5.00005,17.6109 L10.5959,11.9999 L5.00005,6.38877 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

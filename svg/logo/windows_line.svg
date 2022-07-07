@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>windows_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(-432.000000, -96.000000)">
+            <g id="windows_line" transform="translate(432.000000, 96.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M10,5.25777 L5,5.88277 L5,11 L10,11 L10,5.25777 Z M12,5.00777 L12,11 L19,11 L19,4.13277 L12,5.00777 Z M10,13 L5,13 L5,18.1172 L10,18.7422 L10,13 Z M12,18.9922 L12,13 L19,13 L19,19.8672 L12,18.9922 Z M3,5.88277 L3,12 L3,18.1172 C3,19.1259 3.75107,19.9767 4.75193,20.1018 L19.3139,21.922 C20.2092,22.0339 21,21.3358 21,20.4336 L21,12 L21,3.56638 C21,2.66414 20.2092,1.96606 19.3139,2.07797 L4.75193,3.89822 C3.75107,4.02333 3,4.87413 3,5.88277 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

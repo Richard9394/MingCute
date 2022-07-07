@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>traffic_cone_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Map" transform="translate(-48.000000, -144.000000)">
+            <g id="traffic_cone_fill" transform="translate(48.000000, 144.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,3 C12.3973,3 12.7569,3.23519 12.9162,3.59918 L19.654,19 L20,19 C20.5523,19 21,19.4477 21,20 C21,20.5523 20.5523,21 20,21 L4,21 C3.44772,21 3,20.5523 3,20 C3,19.4477 3.44772,19 4,19 L4.34598,19 L11.0838,3.59918 C11.2431,3.23519 11.6027,3 12,3 Z M9.59149,12 L14.4085,12 L13.5335,10 L10.4665,10 L9.59149,12 Z M7.40399,17 L16.596,17 L15.721,15 L8.27899,15 L7.40399,17 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>octagon_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shape" transform="translate(-432.000000, -48.000000)">
+            <g id="octagon_fill" transform="translate(432.000000, 48.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M9.10051,2 L14.8995,2 C15.6951,2 16.4582,2.31607 17.0208,2.87868 L21.1213,6.97919 C21.6839,7.54179 22,8.30486 22,9.10051 L22,14.8995 C22,15.6951 21.6839,16.4582 21.1213,17.0208 L17.0208,21.1213 C16.4582,21.6839 15.6951,22 14.8995,22 L9.10051,22 C8.30486,22 7.54179,21.6839 6.97919,21.1213 L2.87868,17.0208 C2.31607,16.4582 2,15.6951 2,14.8995 L2,9.10051 C2,8.30486 2.31607,7.54179 2.87868,6.97918 L6.97919,2.87868 C7.54179,2.31607 8.30486,2 9.10051,2 Z" id="路径" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
