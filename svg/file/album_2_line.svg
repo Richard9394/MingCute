@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>album_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="File" transform="translate(-240.000000, -192.000000)">
+            <g id="album_line" transform="translate(240.000000, 192.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M5.99997,3 C5.44768,3 4.99997,3.44772 4.99997,4 C4.99997,4.55228 5.44768,5 5.99997,5 L18,5 C18.5523,5 19,4.55228 19,4 C19,3.44772 18.5523,3 18,3 L5.99997,3 Z M4.18043,6 C2.94455,6 2.00446,7.10974 2.20764,8.3288 L3.87431,18.3288 C4.03503,19.2932 4.86942,20 5.84709,20 L18.1528,20 C19.1305,20 19.9649,19.2932 20.1256,18.3288 L21.7923,8.3288 C21.9955,7.10974 21.0554,6 19.8195,6 L4.18043,6 Z M4.18043,8 L19.8195,8 L18.1528,18 L5.84709,18 L4.18043,8 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

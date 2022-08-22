@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>external_link_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="File" transform="translate(-480.000000, -192.000000)" fill-rule="nonzero">
+            <g id="external_link_line" transform="translate(480.000000, 192.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M11,6 C11.5523,6 12,6.44772 12,7 C12,7.55228 11.5523,8 11,8 L5,8 L5,19 L16,19 L16,13 C16,12.4477 16.4477,12 17,12 C17.5523,12 18,12.4477 18,13 L18,19 C18,20.1046 17.1046,21 16,21 L5,21 C3.89543,21 3,20.1046 3,19 L3,8 C3,6.89543 3.89543,6 5,6 L11,6 Z M20,3 C20.5523,3 21,3.44772 21,4 L21,4 L21,9 C21,9.55228 20.5523,10 20,10 C19.4477,10 19,9.55228 19,9 L19,9 L19,6.41421 L10.7071,14.7071 C10.3166,15.0976 9.68342,15.0976 9.29289,14.7071 C8.90237,14.3166 8.90237,13.6834 9.29289,13.2929 L9.29289,13.2929 L17.5858,5 L15,5 C14.4477,5 14,4.55229 14,4 C14,3.44772 14.4477,3 15,3 L15,3 Z" id="形状结合" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

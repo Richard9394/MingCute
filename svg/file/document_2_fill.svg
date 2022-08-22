@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>document_2_fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="File" transform="translate(-336.000000, -240.000000)">
+            <g id="document_2_fill" transform="translate(336.000000, 240.000000)">
+                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,2 L12,8.5 C12,9.32843 12.6716,10 13.5,10 L13.5,10 L20,10 L20,20 C20,21.1046 19.1046,22 18,22 L18,22 L6,22 C4.89543,22 4,21.1046 4,20 L4,20 L4,4 C4,2.89543 4.89543,2 6,2 L6,2 L12,2 Z M15,15 L9,15 C8.44772,15 8,15.4477 8,16 C8,16.5523 8.44772,17 9,17 L9,17 L15,17 C15.5523,17 16,16.5523 16,16 C16,15.4477 15.5523,15 15,15 L15,15 Z M10,11 L9,11 C8.44772,11 8,11.4477 8,12 C8,12.5523 8.44772,13 9,13 L10,13 C10.5523,13 11,12.5523 11,12 C11,11.4477 10.5523,11 10,11 Z M14,2.04336 C14.3759,2.12295 14.7241,2.30991 15,2.58579 L15,2.58579 L19.4142,7 C19.6901,7.27588 19.8771,7.62406 19.9566,8 L19.9566,8 L14,8 Z" id="形状结合" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

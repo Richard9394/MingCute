@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>server_line</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Device" transform="translate(-480.000000, -192.000000)" fill-rule="nonzero">
+            <g id="server_line" transform="translate(480.000000, 192.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M18,3 C19.1046,3 20,3.89543 20,5 L20,19 C20,20.1046 19.1046,21 18,21 L6,21 C4.89543,21 4,20.1046 4,19 L4,5 C4,3.89543 4.89543,3 6,3 L18,3 Z M18,15 L6,15 L6,19 L18,19 L18,15 Z M13,16 C13.5523,16 14,16.4477 14,17 C14,17.5523 13.5523,18 13,18 C12.4477,18 12,17.5523 12,17 C12,16.4477 12.4477,16 13,16 Z M16,16 C16.5523,16 17,16.4477 17,17 C17,17.5523 16.5523,18 16,18 C15.4477,18 15,17.5523 15,17 C15,16.4477 15.4477,16 16,16 Z M18,10 L6,10 L6,13 L18,13 L18,10 Z M18,5 L6,5 L6,8 L18,8 L18,5 Z" id="形状" fill="#09244B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
