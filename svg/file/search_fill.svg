@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>search_fill</title>
-    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="File" transform="translate(0.000000, -144.000000)" fill-rule="nonzero">
-            <g id="search_fill" transform="translate(0.000000, 144.000000)">
-                <rect id="MingCute" x="0" y="0" width="24" height="24"></rect>
-                <path d="M10.5,2 C15.1944,2 19,5.80558 19,10.5 C19,12.4869 18.3183,14.3145 17.176,15.7618 L20.8284,19.4142 C21.2189,19.8048 21.2189,20.4379 20.8284,20.8284 C20.4379,21.219 19.8047,21.219 19.4142,20.8284 L15.7618,17.176 C14.3145,18.3183 12.4869,19 10.5,19 C5.80558,19 2,15.1944 2,10.5 C2,5.80558 5.80558,2 10.5,2 Z M10.5,4 C6.91015,4 4,6.91015 4,10.5 C4,14.0899 6.91015,17 10.5,17 C14.0899,17 17,14.0899 17,10.5 C17,6.91015 14.0899,4 10.5,4 Z M10.5,5 C13.5376,5 16,7.46243 16,10.5 C16,13.5376 13.5376,16 10.5,16 C7.46243,16 5,13.5376 5,10.5 C5,7.46243 7.46243,5 10.5,5 Z" id="形状" fill="#09244B"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g fill="none" fill-rule="nonzero"><path d="M0 0h24v24H0z"/><path fill="#09244B" d="M10.5 2a8.5 8.5 0 0 1 6.676 13.762l3.652 3.652a1 1 0 0 1-1.414 1.414l-3.652-3.652A8.5 8.5 0 1 1 10.5 2Zm0 2a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Zm0 1a5.5 5.5 0 1 1 0 11 5.5 5.5 0 0 1 0-11Z"/></g></svg>

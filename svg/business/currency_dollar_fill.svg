@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>currency_dollar_fill</title>
-    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Business" transform="translate(-576.000000, -48.000000)">
-            <g id="currency_dollar_fill" transform="translate(576.000000, 48.000000)">
-                <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <path d="M2,12 C2,6.47715 6.47715,2 12,2 C17.5228,2 22,6.47715 22,12 C22,17.5228 17.5228,22 12,22 C6.47715,22 2,17.5228 2,12 Z M13,7 C13,6.44772 12.5523,6 12,6 C11.4477,6 11,6.44772 11,7 L11,8 L10,8 C8.61929,8 7.5,9.11929 7.5,10.5 C7.5,11.8807 8.61929,13 10,13 L14,13 C14.2761,13 14.5,13.2239 14.5,13.5 C14.5,13.7761 14.2761,14 14,14 L9,14 C8.44772,14 8,14.4477 8,15 C8,15.5523 8.44772,16 9,16 L11,16 L11,17 C11,17.5523 11.4477,18 12,18 C12.5523,18 13,17.5523 13,17 L13,16 L14,16 C15.3807,16 16.5,14.8807 16.5,13.5 C16.5,12.1193 15.3807,11 14,11 L10,11 C9.72386,11 9.5,10.7761 9.5,10.5 C9.5,10.2239 9.72386,10 10,10 L15,10 C15.5523,10 16,9.55228 16,9 C16,8.44772 15.5523,8 15,8 L13,8 L13,7 Z" id="形状" fill="#09244B"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path fill="#09244B" d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m11-5a1 1 0 1 0-2 0v1h-1a2.5 2.5 0 0 0 0 5h4a.5.5 0 0 1 0 1H9a1 1 0 1 0 0 2h2v1a1 1 0 1 0 2 0v-1h1a2.5 2.5 0 0 0 0-5h-4a.5.5 0 0 1 0-1h5a1 1 0 1 0 0-2h-2z"/></g></svg>

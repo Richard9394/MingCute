@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>text_line</title>
-    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Editor" transform="translate(0.000000, -96.000000)" fill-rule="nonzero">
-            <g id="text_line" transform="translate(0.000000, 96.000000)">
-                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
-                <path d="M5,4 C4.44772,4 4,4.44772 4,5 C4,5.55228 4.44772,6 5,6 L11,6 L11,20 C11,20.5523 11.4477,21 12,21 C12.5523,21 13,20.5523 13,20 L13,6 L19,6 C19.5523,6 20,5.55228 20,5 C20,4.44772 19.5523,4 19,4 L5,4 Z" id="路径" fill="#09244B"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g fill="none" fill-rule="nonzero"><path d="M0 0h24v24H0z"/><path fill="#09244B" d="M5 4a1 1 0 0 0 0 2h6v14a1 1 0 1 0 2 0V6h6a1 1 0 1 0 0-2H5Z"/></g></svg>
