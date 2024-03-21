@@ -23,7 +23,7 @@ Copy the font files from  `/fonts` and import the `mingcute.css` file. Add icon 
 <span class="mgc_search_fill"></span>
 ```
 ## Figma plug
-[![image](https://s3-alpha-sig.figma.com/plugins/1306884809438005528/71376/92146746/11b0ce37-7d09-4a49-86f0-49ec0d048063-cover?Expires=1704672000&Signature=cvXcFB69oGnnqaqTHWyucHooizS8SLzUiVDQFyAXG9DowdDpIkcKjUYNypT2K~vvDr1vsN1nutJgyPK6gn4zUvk5g33~8S5maE~fd7Hgg4UqxFkkP6Jul32zQct81OOJ2EjykB~6XF5ZTQLQ330QUgOyYk89jX23UVBtHF~NOKzoFrRbPzl6UPVde~eGNBquy5zNA8mTwCEkJ03OJkAabVf0-3xyPtwpDM-AeDGcIDTBRcbiXlIRA8PvV2aYBs0EczxXKqFO~~736SLoweUdFs8-v0MzLk7ya8rEdhOWpEi67m~3goz6Nu5pJ7a5OZrYrewhFBshnVCpv849Y16gXQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4 "MingCute Figma Plug")](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
+[![image](https://s3-alpha-sig.figma.com/plugins/1306884809438005528/75524/7c3978fb7214903d413280de5939ecef8d28db61-cover?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EC4EpWysNRFugAucHeQI5~p68Nx03Gdvc0gxODyRDi5QPSpTfvom7gTkqpXYpHot-wTcDVTNhJJg26fyW2~-I8VEECG7AyWNU1GkJ2iKCeUO27cSAwf~attEZSAwzZS7cPOHpLWGy7S45W3SponV5LCaMekGKITuJAj93HokUlPLjo0so5FYjyQOoIDQscc3ud8x701NYfDlXjGRqMoog5snU-mN9eGESD-m~n4F267QEehZ1QbLJ02ZLf2dBWyjyV7O17VuJiEqBCRlq5Ax2NSji-ZFaFBjgfQ3mn5p4B9Ick30afMJi8SBJFol5B6U5RWJ442nbrQ5xtE7No~DYQ__"MingCute Figma Plug")](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
 
 [MingCute icons Figma plugin](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
 
