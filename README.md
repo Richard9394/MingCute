@@ -22,10 +22,10 @@ Copy the font files from  `/fonts` and import the `mingcute.css` file. Add icon 
 <span class="mgc_search_line"></span>
 <span class="mgc_search_fill"></span>
 ```
-## Figma plug
+## Figma Plug
 [![image](https://github.com/Richard9394/MingCute/raw/main/update/figmaplug.png "MingCute Figma Plug")](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
 
-[MingCute icons Figma plugin](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
+[MingCute Icons Figma plugin](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
 
 ## Animation
 [![image](https://lemonsqueezy.imgix.net/media/7619/00f4cbab-8730-4c3f-8a8d-799c2a8417dd.gif "MingCute animation icons pack")](https://www.mingcute.com/animation)
@@ -36,5 +36,5 @@ We have launched the [MingCute animation icons pack](https://www.mingcute.com/an
 ![image](https://github.com/Richard9394/MingCute/raw/main/MingCute_icon.png "MingCute Icon")
 
 ## License
-MingCute icon is available under [Apache-2.0 License](https://github.com/Richard9394/MingCute/blob/main/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution is much appreciated but not required.The only thing we ask is that these icons are not for sale.
+MingCute icon is available under [Apache-2.0 License](https://github.com/Richard9394/MingCute/blob/main/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution is much appreciated but not required. The only thing we ask is that these icons are not for sale.
 
