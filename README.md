@@ -27,8 +27,13 @@ Copy the font files from  `/fonts` and import the `mingcute.css` file. Add icon 
 
 [MingCute Icons Figma plugin](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
 
+## MGC Icon System
+[![image](https://github.com/Richard9394/MingCute/raw/main/update/MGC_cover.png "MGC Icon System")](https://mgc.mingcute.com)
+
+[MGC Icon System](https://mgc.mingcute.com) is a comprehensive collection of over 13,600 high-quality vector icons across nine styles: cute light, cute regular, cute filled, sharp, light, regular, filled, duotone, and two-tone.It is an upgraded version of MingCute.
+
 ## Animation
-[![image](https://lemonsqueezy.imgix.net/media/7619/00f4cbab-8730-4c3f-8a8d-799c2a8417dd.gif "MingCute animation icons pack")](https://www.mingcute.com/animation)
+[![image](https://lemonsqueezy.imgix.net/media/7619/00f4cbab-8730-4c3f-8a8d-799c2a8417dd.gif "MGC animation icons pack")](https://www.mingcute.com/animation)
 
 We have launched the [MingCute animation icons pack](https://www.mingcute.com/animation), which is a meticulously designed library of animated icons featuring lifelike lottie animations.
 
