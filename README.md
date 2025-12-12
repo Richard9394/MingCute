@@ -57,13 +57,14 @@ Copy the font files from  `/fonts` and import the `mingcute.css` file. Add icon 
 
 [![image](https://github.com/Richard9394/MingCute/raw/main/update/MGC_cover.png "MGC Icon System")](https://mgc.mingcute.com)
 
-[MGC Icon System](https://mgc.mingcute.com) is a comprehensive collection of over 13,600 high-quality vector icons across nine styles: cute light, cute regular, cute filled, sharp, light, regular, filled, duotone, and two-tone.It is an upgraded version of MingCute.
+[MGC Icon System](https://mgc.mingcute.com) is a comprehensive collection of over 15,000 high-quality vector icons across nine styles: cute light, cute regular, cute filled, sharp, light, regular, filled, duotone, and two-tone.It is an upgraded version of MingCute.
 
-## Animation
+## MGC Design Resources
 
-[![image](https://lemonsqueezy.imgix.net/media/7619/00f4cbab-8730-4c3f-8a8d-799c2a8417dd.gif "MGC animation icons pack")](https://www.mingcute.com/animation)
-
-We have launched the [MingCute animation icons pack](https://www.mingcute.com/animation), which is a meticulously designed library of animated icons featuring lifelike lottie animations.
+- [MGC UI](https://mgcui.framer.website/) - Design system and UI Kit for Figma
+- [MGC Icon System ](https://mgc.mingcute.com/)- 15,000 vector icons across nine styles
+- [MGC Weather icons ](https://mgcweather.framer.website/)- 120 graceful weather icons
+- [MGC Animation icons ](https://www.mingcute.com/animation)- 120+ lively and smooth animated icons
 
 ## Preview
 ![image](https://github.com/Richard9394/MingCute/raw/main/MingCute_icon.png "MingCute Icon")
