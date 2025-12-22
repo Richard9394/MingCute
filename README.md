@@ -47,17 +47,36 @@ Copy the font files from  `/fonts` and import the `mingcute.css` file. Add icon 
 <span class="mgc_search_fill"></span>
 ```
 
+## React
+
+Import icons as standard React components  through [`@mingcute/react`](https://www.npmjs.com/package/@mingcute/react) package.. All icons accept `size` and `color` props.
+
+```TypeScript
+import { MingcuteFill, Home1Line, SearchLine } from '@mingcute/react';
+
+function App() {
+  return (
+    <div className="container">
+      {/* Default: 24px size and currentColor */}
+      <MingcuteFill />
+
+      {/* Custom size and color */}
+      <Home1Line size={32} color="#007AFF" />
+
+      {/* Inherits standard SVG props */}
+      <SearchLine opacity={0.5} />
+    </div>
+  );
+}
+```
+
+For more details, see the [documentation](https://github.com/Richard9394/MingCute/tree/main/react).
+
 ## Figma Plug
 
 [![image](https://github.com/Richard9394/MingCute/raw/main/update/figmaplug.png "MingCute Figma Plug")](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
 
 [MingCute Icons Figma plugin](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
-
-## MGC Icon System
-
-[![image](https://github.com/Richard9394/MingCute/raw/main/update/MGC_cover.png "MGC Icon System")](https://mgc.mingcute.com)
-
-[MGC Icon System](https://mgc.mingcute.com) is a comprehensive collection of over 15,000 high-quality vector icons across nine styles: cute light, cute regular, cute filled, sharp, light, regular, filled, duotone, and two-tone.It is an upgraded version of MingCute.
 
 ## MGC Design Resources
 

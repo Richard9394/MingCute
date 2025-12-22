@@ -1,0 +1,48 @@
+# --- Dependencies ---
+node_modules/
+.pnpm-store/
+
+# --- Build Outputs ---
+# 
+src/
+dist-doc/
+*.tgz
+
+# --- Log files ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Editor & System ---
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- Testing & Coverage ---
+coverage/
+.nyc_output
+
+# --- TypeScript & Build Cache ---
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+.parcel-cache
+.turbo
+.next/
+
+# --- Environment Variables ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# --- Vite / Preview ---
+preview/dist/
