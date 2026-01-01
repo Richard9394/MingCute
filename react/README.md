@@ -19,7 +19,7 @@ Implementation of the MingCute Icons library for React applications.
 
 # MingCute Icons for React
 
-A high-performance, tree-shakable React icon library generated from **MingCute** design system. Built with TypeScript and optimized for modern frameworks like Next.js, Vite, and Remix.
+A high-performance, tree-shakable React icon library generated from **MingCute Icons**. Built with TypeScript and optimized for modern frameworks like Next.js, Vite, and Remix.
 
 ------
 
