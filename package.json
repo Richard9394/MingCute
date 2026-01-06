@@ -1,0 +1,15 @@
+{
+  "name": "mingcute-icons",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "build": "pnpm -r build",
+    "build:react": "pnpm --filter @mingcute/react build",
+    "build:vue": "pnpm --filter @mingcute/vue build",
+    "clean": "pnpm -r clean"
+  },
+  "devDependencies": {
+    "glob": "^11.0.0",
+    "svgo": "^3.3.2"
+  }
+}
