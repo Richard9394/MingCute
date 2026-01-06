@@ -1,0 +1,62 @@
+{
+  "name": "@mingcute/react",
+  "version": "0.1.0",
+  "description": "MingCute Icons for React",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/esm/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/esm/index.d.ts",
+        "default": "./dist/esm/index.js"
+      },
+      "require": {
+        "types": "./dist/cjs/index.d.ts",
+        "default": "./dist/cjs/index.js"
+      }
+    },
+    "./*": {
+      "import": {
+        "types": "./dist/esm/icons/*.d.ts",
+        "default": "./dist/esm/icons/*.js"
+      },
+      "require": {
+        "types": "./dist/cjs/icons/*.d.ts",
+        "default": "./dist/cjs/icons/*.js"
+      }
+    }
+  },
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "clean": "rm -rf dist"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^19.0.0",
+    "react": "^19.0.0",
+    "rollup": "^4.29.1",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.2"
+  },
+  "keywords": [
+    "icons",
+    "react",
+    "svg",
+    "mingcute"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Richard9394/MingCute.git",
+    "directory": "packages/mingcute-react"
+  }
+}
