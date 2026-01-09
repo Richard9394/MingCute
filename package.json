@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "generate": "node scripts/generate.mjs",
+    "prebuild": "pnpm generate",
     "build": "pnpm -r build",
     "build:react": "pnpm --filter @mingcute/react build",
     "build:vue": "pnpm --filter @mingcute/vue build",
