@@ -24,7 +24,6 @@ selenium-debug.log
 /dist
 **/dist
 /node_modules
-pnpm-lock.yaml
 
 # Generated icon source files
 packages/*/src/icons/
