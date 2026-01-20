@@ -10,7 +10,8 @@ export const Icon = forwardRef<SVGSVGElement, IconProps & { children: React.Reac
         width={size}
         height={size}
         viewBox="0 0 24 24"
-        fill={color}
+
+        style={{ color, ...props.style }}
         {...props}
       >
         {children}

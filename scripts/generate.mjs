@@ -54,7 +54,9 @@ function parseSvg(svgContent) {
   if (!match) return null;
 
   let innerContent = match[1].trim();
-  innerContent = innerContent.replace(/fill="#[0-9a-fA-F]{6}"/g, '');
+  // Replace specific color #09244B with currentColor globally (ignoring case)
+  // This covers fill, stroke, stop-color, etc.
+  innerContent = innerContent.replace(/#09244B/gi, 'currentColor');
   innerContent = innerContent.replace(/fill="none"/g, 'fill="none"');
 
   return innerContent;

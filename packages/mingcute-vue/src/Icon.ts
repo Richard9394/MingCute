@@ -21,7 +21,7 @@ export const Icon = defineComponent({
           width: props.size,
           height: props.size,
           viewBox: '0 0 24 24',
-          fill: props.color,
+          style: { color: props.color },
           ...attrs,
         },
         slots.default?.()
